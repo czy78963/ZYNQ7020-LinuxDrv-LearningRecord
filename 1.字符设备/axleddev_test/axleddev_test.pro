@@ -1,0 +1,2 @@
+SOURCES += \
+    mian.c

@@ -1,2 +1,3 @@
 SOURCES += \
-    mian.c
+    mian.c \
+    main.c

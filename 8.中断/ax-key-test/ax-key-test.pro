@@ -1,2 +1,0 @@
-SOURCES += \
-    main.c

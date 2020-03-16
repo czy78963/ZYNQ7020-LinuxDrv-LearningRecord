@@ -1,5 +1,6 @@
 # 基于ALINX-AX7020开发板的Linux驱动学习。
 --------------------------------------------
+### 本篇是本人在ZYNQ上学习Linux驱动开发学习的笔记。
 ### ZYNQ上的Linux资料很少，毕竟本身也不是专门跑Linux的平台。不过借助Xilinx的一套开发工具，搭建板端的Linux系统还是很方便的。
 ### 主要涉及到工具有：PC端vivado、ubuntu端vivado、ubuntu端petalinux，vivado用来配置PL端(fpga)硬件资源，petalinux工具则用来快速搭建系统。具体操作，建议参考ALINX的教程，都是开源的资料，里面有详细的讲解。
 ------------------------------
